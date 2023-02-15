@@ -12,13 +12,13 @@ The purpose of this project is to figure out the time period within a year is th
 
 ### Research questions to answer:
 
- Which amongst the 4 cities is cheapest to fly domestically and across quarters/seasons?
+ > Which amongst the 4 cities is cheapest to fly domestically and across quarters/seasons?
 
- Which amongst the 4 cities has best weather conditions to visit across quarters/seasons?
+ > Which amongst the 4 cities has best weather conditions to visit across quarters/seasons?
 
- Which amongst the 4 cities has lower hotel rates across quarters/seasons?
+ > Which amongst the 4 cities has lower hotel rates across quarters/seasons?
 
- Which amongst the 4 cities are popular amongst visitors across the quarters/seasons?
+ > Which amongst the 4 cities are popular amongst visitors across the quarters/seasons?
 
  
 
