@@ -11,31 +11,31 @@ The purpose of this project is to figure out the time period within a year is th
 
 
 ### Research questions to answer:
-<sub>
-Which amongst the 4 cities is cheapest to fly domestically and across quarters/seasons?
 
-Which amongst the 4 cities has best weather conditions to visit across quarters/seasons?
+ Which amongst the 4 cities is cheapest to fly domestically and across quarters/seasons?
 
-Which amongst the 4 cities has lower hotel rates across quarters/seasons?
+ Which amongst the 4 cities has best weather conditions to visit across quarters/seasons?
 
-Which amongst the 4 cities are popular amongst visitors across the quarters/seasons?
-</sub>
+ Which amongst the 4 cities has lower hotel rates across quarters/seasons?
+
+ Which amongst the 4 cities are popular amongst visitors across the quarters/seasons?
+
  
 
 ### Rough breakdown of tasks 
-<sub>
-Task 1: Find the datasets listed above 
 
-Task 2: Clean and prepare the datasets 
+ Task 1: Find the datasets listed above 
 
-Task 3: Merge the datasets to find correlations between each (if any)
+ Task 2: Clean and prepare the datasets 
 
-Task 4: Analyze the data to see if the research questions can be answered or figure any biases within the dataset
+ Task 3: Merge the datasets to find correlations between each (if any)
 
-Task 6: Prepare visualization of the datasets 
+ Task 4: Analyze the data to see if the research questions can be answered or figure any biases within the dataset
 
-Task 6: Create PowerPoint with the data information for the presentation
-</sub>
+ Task 6: Prepare visualization of the datasets 
+
+ Task 6: Create PowerPoint with the data information for the presentation
+
 
 
 ### Data Sources Identified:
