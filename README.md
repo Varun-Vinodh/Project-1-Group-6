@@ -1,6 +1,6 @@
 # Project-1-Group-6
 # When is Best Time to visit the 4 Major Cities of Canada? 
-(Vancouver - Toronto- Montreal- Halifax) 
+#(Vancouver - Toronto- Montreal- Halifax) 
 
 Contributors: Gustavo Cupertino, Varun Vinodh, Bhuvana Krish, and Tina Saravi 
 
