@@ -48,6 +48,9 @@ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2310023701
 Hotel: 
 http://www.mtc-currentperformance.com/Hotel.aspx
 
+Visitors:
+https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=2410004301
+
 
 
 
